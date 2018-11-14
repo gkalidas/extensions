@@ -1,6 +1,6 @@
 {
-	"name": "Getting started example",
+	"name": "Name_extension",
 	"version": "1.0",
 	"description": "First chrome extension by gk",
-	"manifest-version": "2"
+	"manifest_version": 2
 	}
