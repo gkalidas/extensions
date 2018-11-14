@@ -2,7 +2,7 @@ How to write and install extension?
 
 1) create a folder named "it_can_be_any_name ;)"
 2) create a file named "manifest" and save it as "json" type (2.1,2.2)
-3) Manifest is a character sensitive(3.1)
+3) Manifest is a case sensitive(3.1)
 4) insert "chrome://extensions" in the address bar or
 	go to the chrome menu -> more tools -> extensions
 5) enable developers option in the right corner of the chrome
